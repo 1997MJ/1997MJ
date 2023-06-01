@@ -3,6 +3,8 @@
 <a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white%22"/></a>
 
 
+<a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-6E6E6E?style=flat-square&logo=GoogleGlogoColor=white%22"/></a>
+
 <!--
 **1997MJ/1997MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
