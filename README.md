@@ -14,9 +14,9 @@ Interested in **Java**, **Spring**, **React**, **HTML/CSS/JS**
  <hr>
 Take a look at the service I created
 <br><br>
-[🔔 실시간 재난현황 웹사이트](https://github.com/1997MJ/SNS_Disaster_Management_System)
+<a href="https://github.com/1997MJ/SNS_Disaster_Management_System"  target="_blank">[🔔 실시간 재난현황 웹사이트 ]</a>
 <br>
-[🏃‍♂ 달런달런](https://github.com/1997MJ/final-dalrun-front)
+<a href="https://github.com/1997MJ/final-dalrun-front"  target="_blank">[🏃‍♂ 달런달런 ]</a>
 
  <hr>
  
