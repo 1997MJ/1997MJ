@@ -6,6 +6,32 @@
 </p>
   
   
+<p>
+웹 개발자의 길로 <a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/RUN-000000?style=flat-square&logo=AngellistGlogoColor=yellow%22"/></a>
+</p>
+
+Interested in **C++**, **Swift**, **React**, **TS/JS**
+
+<br>
+
+Take a look at the community I created
+<br>
+<br>
+[📚 팔만코딩경](https://80000coding.oopy.io)
+
+<br>
+
+Take a look at the service I created
+<br>
+
+[🍚 밥풀레이스](https://babplace.heyinsa.kr)
+  
+[🧩 Unsolved.wa](https://babplace.heyinsa.kr](https://chrome.google.com/webstore/detail/unsolvedwa/dgikgakkhcapbjbccbgpajlgjocmeddj?hl=ko))
+  
+[📅 Timong](https://timong.heyinsa.kr)
+
+<br>
+  
 
 <!--
 **1997MJ/1997MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
