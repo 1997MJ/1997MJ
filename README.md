@@ -1,34 +1,26 @@
-### Hi there 👋
+### 안녕하십니까 🫡
 
 <p>
 <a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white%22"/></a>
-<a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-6E6E6E?style=flat-square&logo=GoogleG&logoColor=white%22"/></a>
 </p>
   
   
 <p>
-웹 개발자의 길로 <a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/RUN-000000?style=flat-square&logo=Angellist&logoColor=yellow%22"/></a>
+웹 개발자의 길로 <a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/RUN-000000?style=flat-square&logo=Angellist&logoColor=yellow"/></a>
 </p>
 
-Interested in **C++**, **Swift**, **React**, **TS/JS**
-
+Interested in **Java**, **Spring**, **React**, **HTML/CSS/JS**
 <br>
-
-Take a look at the community I created
-<br>
-<br>
-[📚 팔만코딩경](https://80000coding.oopy.io)
-
-<br>
-
+ <hr>
 Take a look at the service I created
+<br><br>
+[🔔 실시간 재난현황 웹사이트](https://github.com/1997MJ/SNS_Disaster_Management_System)
 <br>
+[🏃‍♂ 달런달런](https://github.com/1997MJ/final-dalrun-front)
 
-[🍚 밥풀레이스](https://babplace.heyinsa.kr)
-  
-[🧩 Unsolved.wa](https://babplace.heyinsa.kr](https://chrome.google.com/webstore/detail/unsolvedwa/dgikgakkhcapbjbccbgpajlgjocmeddj?hl=ko))
-  
-[📅 Timong](https://timong.heyinsa.kr)
+ <hr>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1997MJ&show_icons=true&theme=react)
 
 <br>
   
