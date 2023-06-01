@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/#000000?style=for-the-badge&logo=appveyor&logoColor=red"/></a>
+
+
 <!--
 **1997MJ/1997MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
