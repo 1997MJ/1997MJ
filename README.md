@@ -2,12 +2,12 @@
 
 <p>
 <a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-FE642E?style=flat-square&logo=Tistory&logoColor=white%22"/></a>
-<a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-6E6E6E?style=flat-square&logo=GoogleGlogoColor=white%22"/></a>
+<a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-6E6E6E?style=flat-square&logo=GoogleG&logoColor=white%22"/></a>
 </p>
   
   
 <p>
-웹 개발자의 길로 <a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/RUN-000000?style=flat-square&logo=AngellistGlogoColor=yellow%22"/></a>
+웹 개발자의 길로 <a href="https://mjcoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/RUN-000000?style=flat-square&logo=Angellist&logoColor=yellow%22"/></a>
 </p>
 
 Interested in **C++**, **Swift**, **React**, **TS/JS**
